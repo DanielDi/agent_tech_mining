@@ -1,0 +1,12 @@
+[
+  {
+    "Document":"Research status, hotspots and trends for information behavior in China using bibliometric and co-word analysis",
+    "AnalyzedFields":"Abstract; Keywords",
+    "TermPreprocessing":"Data cleaning; Stop-word removal; Exclude generic terms; Frequency filter (min occurrences)",
+    "Clustering":"CiteSpace; VOSviewer",
+    "ClusterAnalysis":"Connection analysis; Thematic trend analysis; Theme identification; Hotspot detection",
+    "PaperCount":"3,602 (1987–2015)",
+    "TermCount":"6,255 terms",
+    "SourceFile":"112. Research status, hotspots and trends for information behavior in China using bibliometric and co-word analysis.pdf"
+  }
+]
